@@ -34,8 +34,8 @@ $GLOBALS['GPIO_PINS'] = array(
 // and */ at the end
 // You can rename your pins here if you use this board
 $GLOBALS['GPIO_PINS'] = array(
-  2  => 'I2C SDA1',
-  3  => 'I2C SCL1',
+  2  => 'network control led',
+  3  => 'trigger',
   4  => 'GPCLK0',
   7  => 'SPI CE1',
   8  => 'SPI CE0',
